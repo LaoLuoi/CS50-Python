@@ -1,4 +1,4 @@
-# [Indoor Voice](https://github.com/LaoLuoi/CS50-Python/tree/main/CS50-W1/Indoor)
+# [Indoor Voice](https://github.com/LaoLuoi/CS50-Python/tree/main/CS50-W1/ProblemSet0/Indoor)
 
 WRITING IN ALL CAPS IS LIKE YELLING.
 
