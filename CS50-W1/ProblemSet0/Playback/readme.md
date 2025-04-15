@@ -1,4 +1,4 @@
-# Playback Speed
+# [Playback Speed](https://github.com/LaoLuoi/CS50-Python/tree/main/CS50-W1/ProblemSet0/Playback)
 
 Some people have a habit of ~~lecturing~~ speaking rather quickly, and it’d be nice to slow them down, a la YouTube’s 0.75 playback speed, or even by having them pause between words.
 
