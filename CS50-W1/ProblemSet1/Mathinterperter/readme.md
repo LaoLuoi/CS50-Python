@@ -1,4 +1,4 @@
-# [Math Interpreter](https://github.com/LaoLuoi/CS50-Python/tree/main/CS50-W1/ProblemSet1/Mathinterpreter)
+# [Math Interpreter](https://github.com/LaoLuoi/CS50-Python/tree/main/CS50-W1/ProblemSet1/Mathinterperter)
 
 Python already supports math, whereby you can write code to add, subtract, multiply, or divide values and even variables. But let’s write a program that enables users to do math, even without knowing Python.
 
